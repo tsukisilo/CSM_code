@@ -1,4 +1,3 @@
-*.h linguist-language = c++
-*.cpp linguist-language = c++
-*.pro linguist-language = IDL
-*.m linguist-language = Matlab
+*.h linguist-language=c++
+*.cpp linguist-language=c++
+*.m linguist-language=Matlab
